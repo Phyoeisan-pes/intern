@@ -26,4 +26,4 @@ public class TeacherPojo {
 	}
 
 }
-//pojo
+//pojoclass
