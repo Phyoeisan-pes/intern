@@ -24,5 +24,5 @@ public class TeacherPojo {
 	public void setPhone(String phone) {
 		this.phone = phone;
 	}
-}
 
+}
